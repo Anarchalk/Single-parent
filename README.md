@@ -1,6 +1,6 @@
 # PARENT CONNECT App
 
- The Parent Connect app connects single parents to a collective online village where families  can grow together experiencing different activities, cultures and most importantly supporting each other. User has to signup in order to join and create variety of events. 
+ The Parent Connect app connects single parents to a collective online village where families  can grow together experiencing different activities, cultures and most importantly supporting each other. User has to signup in order to join and create a variety of events. 
 
 
 * * *
